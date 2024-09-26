@@ -1,6 +1,6 @@
 ## Problems without Framework:
 1. Code duplications
-2. updating the locator when they change
+2. updating the locators when they change
 
 
 ## What is Page Object Model?
